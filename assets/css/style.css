@@ -1709,6 +1709,11 @@ animation: beat 1s ease-in-out infinite alternate;
     opacity: 0.8;
   }
 }
+@media (max-width:750px) {
+  .button-89 {
+    font-size: 35px;
+  }
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
